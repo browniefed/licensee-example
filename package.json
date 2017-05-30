@@ -1,0 +1,23 @@
+{
+  "name": "licensee-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "licensee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browniefed/licensee-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/browniefed/licensee-example/issues"
+  },
+  "homepage": "https://github.com/browniefed/licensee-example#readme",
+  "dependencies": {
+    "react": "^15.5.4"
+  },
+  "devDependencies": {}
+}
